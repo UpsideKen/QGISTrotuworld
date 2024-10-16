@@ -3,7 +3,7 @@ A QGIS source map for Trotuworld
 
 ## How to set it up?
 * First, download this repository
-* Get the rendering files. You can get them here https://drive.google.com/drive/folders/1_4hnoOf6dk0gA0YxmdVipwbrJZP0KEJG?usp=sharing
+* Get the rendering files. You can get them here https://drive.google.com/drive/folders/1VCpW3_122YdB7ITGRcrEbsvO2wBmPB4y?usp=sharing
    * Make sure to download all of them, including non image-like file.
 * Then, create a new folder called 'rendering' within the repository. DO NOT UPLOAD THIS TO THE REPOSITORY WHEN COMMITING. THEY ARE TOO LARGE.
 * Upload all the image files you get from google drive in there. The folder should look like this now.
@@ -39,11 +39,15 @@ Clip, Clip raster by layer, resterize, difference
 I highly recommend turning on snapping under project -> snapping option
 
 Here's some very useful tools for dealing with common problems in mapping
-https://www.youtube.com/watch?v=DMmGTtLx73M
-https://www.youtube.com/watch?v=hPSIW1W3XjY
+* https://www.youtube.com/watch?v=DMmGTtLx73M
+* https://www.youtube.com/watch?v=hPSIW1W3XjY
 
 
 ===========================
+=
+=
+=
+=
 OLD TUTORIAL BELOW
 
 
