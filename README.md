@@ -2,7 +2,7 @@
 A QGIS source map for Trotuworld
 
 ## How to set it up?
-* First, download this repository
+* First, download this repository, as well as [QGIS](https://qgis.org/download/) if you haven't done so.
 * Get the rendering files. You can get them here https://drive.google.com/drive/folders/1VCpW3_122YdB7ITGRcrEbsvO2wBmPB4y?usp=sharing
    * Make sure to download all of them, including non image-like file.
 * Then, create a new folder called 'rendering' within the repository. DO NOT UPLOAD THIS TO THE REPOSITORY WHEN COMMITING. THEY ARE TOO LARGE.
