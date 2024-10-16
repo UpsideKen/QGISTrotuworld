@@ -33,6 +33,15 @@ If you want to add images into the file of your own, you need to first GEOREFERE
 Play around with edit -> Edit Geometry. They are very handy when it comes to mapping coastline, borders that are touching each other, or splitting territory.
 
 Also try playing around with Toolbox (ctrl + alt + t). Many of these built in toolboxes can really help automate your workflow.
+I personally use these the most:
+Clip, Clip raster by layer, resterize, difference
+
+I highly recommend turning on snapping under project -> snapping option
+
+Here's some very useful tools for dealing with common problems in mapping
+https://www.youtube.com/watch?v=DMmGTtLx73M
+https://www.youtube.com/watch?v=hPSIW1W3XjY
+
 
 ===========================
 OLD TUTORIAL BELOW
