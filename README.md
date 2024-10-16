@@ -5,7 +5,7 @@ A QGIS source map for Trotuworld
 * First, download this repository
 * Get the rendering files. You can get them here https://drive.google.com/drive/folders/1_4hnoOf6dk0gA0YxmdVipwbrJZP0KEJG?usp=sharing
    * Make sure to download all of them, including non image-like file.
-* Then, create a new folder called 'rendering'.
+* Then, create a new folder called 'rendering' within the repository. DO NOT UPLOAD THIS TO THE REPOSITORY WHEN COMMITING. THEY ARE TOO LARGE.
 * Upload all the image files you get from google drive in there. The folder should look like this now.
 
 <img width="533" alt="image" src="https://github.com/UpsideKen/QGISTrotuworld/assets/159201452/a1d0e0ef-2a2e-429f-8d95-4f66947171cd">
